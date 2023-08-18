@@ -1,5 +1,7 @@
 # longlegsart
 Frontend web gallery for visual artist, it's fairly simple and minimalistic when it comes to it's design, since obviously it's mainly ment to showcase the artwork, nevertheless it's pretty intuitive to use and it looks good as well.
+
+
 https://longlegs.netlify.app
 ![image](https://user-images.githubusercontent.com/127698758/226244080-c2e2ea61-c37d-4f81-bf67-4ebdf3945026.png)
 # How It's Made
