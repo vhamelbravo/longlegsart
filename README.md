@@ -13,7 +13,7 @@ Tech Used: HTML, CSS, JavaScript
 The main part of the site is the sliding carousel displaying the artwork and that's controlled by the arrow buttons on the bottom, that was of course made using JavaScript, but making it change while holding down the button was specially tricky, i needed to set intervals for a few miliseconds to check if the user was holding the click, as well as stopping after the user stopped clicking.
 
 
-#What I've Learned
+# What I've Learned
 
 
 Since this was a pretty simple website i took advantage to go in depth on the most complicated element of it: The slide display, after a bunch of very frustrating attempts i finally managed to get it down, further allowing me to familiarize myself with JavaScript, which is still fairly new and alien to me.
